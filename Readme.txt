@@ -137,6 +137,4 @@ The model achieved 90.05% accuracy on the test dataset.
 
 ## Contributors
 
-- Rohith Reddy Mandala
-
- 
+Rohith Reddy Mandala
